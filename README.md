@@ -1,2 +1,3 @@
 # Translation-Bot
-Translation Bot for DISCORD
+
+#Translation Bot for DISCORD With NODEJS
